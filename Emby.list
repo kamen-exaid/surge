@@ -1,8 +1,32 @@
-# > NAME: Emby
-# > UPDATED: 2022-04-15 14:07:22
-
 # > 流媒体emby-nexitally服务器
 DOMAIN,emby.nexitally.com
+
+# > 流媒体Misty服务器
+DOMAIN, aaa.ax
+DOMAIN, us.aaa.ax
+DOMAIN, jp. aaa.ax
+
+# > 流媒体nakonako服务器
+DOMAIN, nakonako.net
+
+# > 流媒体黑山服务器
+DOMAIN, hs.gcx920110.com
+DOMAIN, 20.205.102.200
+
+# > 流媒体终点站服务器
+DOMAIN, pub1.emby.wtf
+DOMAIN, pub2.emby.wtf
+DOMAIN, pub3.emby.wtf
+
+# > 流媒体misakaf服务器
+DOMAIN, emby.misakaf.xyz
+
+# > 流媒体polo服务器
+DOMAIN, cu.poloemby.xyz
+DOMAIN, zzl.poloemby.xyz
+DOMAIN, zf.hk01.xf.gay
+DOMAIN, zzljp.poloemby.xyz
+DOMAIN, zf.jp01.xf.gay
 
 # > 流媒体emby-paoche服务器
 DOMAIN,emby.cjpc.cc
@@ -114,6 +138,3 @@ DOMAIN,emby.aiyowei.ml
 # > 流媒体Froghub服务器
 DOMAIN,178.173.230.58
 DOMAIN,emby.hm773.xyz
-
-# > 流媒体自建服务器
-DOMAIN,45.92.156.143
